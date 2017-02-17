@@ -1,0 +1,90 @@
+.navbar-default .navbar-nav > li > a {
+    color: #706f6f;
+}
+
+.second-nav > li > a {
+    color: #706f6f;
+    display: block;
+    padding: 0;
+    position: relative;
+}
+
+.second-nav li {
+    padding-right: 15px;
+}
+
+.badgethumb {
+    border-radius: 50%;
+    float: left;
+    height: 100px;
+    margin-bottom: 10px;
+    margin-right: 35px;
+    width: 100px;
+}
+
+.badges-show {
+    margin-left: -35px;
+    width: 680px;
+}
+
+.explanation {
+    margin: 15px;
+}
+
+.badges-show h2 {
+    margin-left: 35px;
+    padding-bottom: 15px;
+}
+
+.second-nav {
+    color: #f5f5f5;
+    margin-left: 15px;
+    margin-top: 28px;
+}
+
+.succesful-ads {
+    background: green;
+    color: #fff;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    padding: 15px;
+    text-align: center;
+}
+
+.buttons-profile .ctaInvitefriends {
+    border-radius: 0;
+}
+
+.buttons-profile .btnLaddderOrange {
+    border-radius: 0;
+}
+
+.pagination {
+    float: left;
+}
+
+.pagination > .active > a, .pagination > .active > a:focus, .pagination > .active > a:hover, .pagination > .active > span, .pagination > .active > span:focus, .pagination > .active > span:hover {
+    background: orange;
+    border-color: orange;
+}
+
+.achievements .list-group-item span {
+    display: flex;
+    left: 50%;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.achievements .list-group-item {
+    border-radius: 0;
+    display: flex;
+    padding-left: 15px;
+}
+
+.badges {
+    float: left;
+    margin-left: -15px;
+    width: 100%;
+}
