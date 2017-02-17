@@ -17,7 +17,7 @@ In groups, we had to create a platform like tumblr but for the school itself, it
 
 Every users needed to be able to upload his/her designs, for each upvote/comment/follow/post you would get experience, so you could go up in rank.
 
-## some images
+## Some images
 
 ![Login](http://image.prntscr.com/image/7141f3580a5e466f84b1786c97c6488f.png)
 
