@@ -3,10 +3,15 @@
 ## Creators:
 
 **Glenn Van Haute** - Scrum master
+
 **Bram De Nyn** - Developer
+
 **Mattias Delang** - Developer
+
 **Stijn D'Hollander** - Developer
+
 **Yannick Nijs** - Designer
+
 **Pieter Van Der Elst** - Designer
 
 ## Explanation
@@ -24,3 +29,5 @@ Every users needed to be able to upload his/her designs, for each upvote/comment
 ![Dashboard](http://image.prntscr.com/image/0b4b8a380ddc4e1688522f7e4c525385.png)
 
 ![Work](http://image.prntscr.com/image/71e0f0e8c715462091b045a490bdb0b3.png)
+
+## [Orginal location project](https://bitbucket.org/bram_de_nyn/laddder)
