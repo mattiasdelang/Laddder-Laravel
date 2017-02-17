@@ -1,6 +1,6 @@
 # Laddder - Tumblr for IMD
 
-## Creators:
+## Creators
 
 **Glenn Van Haute** - Scrum master
 
